@@ -1,0 +1,14 @@
+{
+  "name": "ticketing-portal-back-end",
+  "version": "1.0.0",
+  "description": "Back end for ticketing portal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Wayne He",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
